@@ -1,6 +1,4 @@
 # 🌱 AgriWise – Smart Rooftop Farming System
-l
-
 AgriWise is an AI-powered Smart Rooftop Farming web application designed to help urban farmers monitor plant health, detect diseases, predict crop growth stages, and receive intelligent farming recommendations. The platform combines Artificial Intelligence with modern web technologies to make rooftop farming smarter, easier, and more productive.
 
 ---
