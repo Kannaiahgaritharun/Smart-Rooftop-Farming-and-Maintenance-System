@@ -139,9 +139,7 @@ B.Tech – Computer Science & Engineering
 
 Aspiring Software Engineer | AI Developer | Full Stack Developer
 
-GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
